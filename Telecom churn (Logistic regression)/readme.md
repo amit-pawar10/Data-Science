@@ -1,4 +1,4 @@
-Problem Statment
+Problem Statment : 
 You have a telecom firm which has collected data of all its customers. The main types of attributes are:
 
 Demographics (age, gender etc.)
